@@ -28,9 +28,5 @@ All analysis is done using Python in Jupyter Notebook, using libraries such as:
 - `matplotlib`
 - `seaborn`
 
-## 📸 Sample Visualizations
 
-| Most Traded Stocks | Most Volatile Stocks |
-|--------------------|----------------------|
-| ![volume](images/top_volume.png) | ![volatility](images/top_volatility.png) |
 
