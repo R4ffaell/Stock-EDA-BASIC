@@ -5,11 +5,12 @@ This project is a beginner-level exploratory data analysis (EDA) on Indonesian s
 ## 📁 Dataset
 
 The dataset contains daily trading data from multiple stocks listed on the Indonesia Stock Exchange (IDX), including:
-
+Dataset Link : https://idx.co.id/id/data-pasar/ringkasan-perdagangan/ringkasan-saham/
 - Stock codes
 - Opening, High, Low, and Closing prices
 - Trading Volume
 - Foreign Buy & Foreign Sell data
+
 
 ## 🔍 Analysis Overview
 
